@@ -1,5 +1,5 @@
 {
-	"name": "fancybox",
+	"name": "fancybox-jquery3",
 	"main": [
 		"source/jquery.fancybox.css",
 		"source/jquery.fancybox.js",
